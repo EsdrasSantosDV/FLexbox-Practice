@@ -10,12 +10,9 @@
  /* Container pai */
 .container {
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 90%;
     border: 1px solid #333;
     display: flex;
-    flex-wrap: wrap;
-    gap:10px;
-    
 }
 
 /* Itens filhos filho */
@@ -27,5 +24,5 @@
     color: #FFF;
     /* Distribui elementos  */
     flex: 0 0 200px;
-    /* padding: 5px; */
+    /
 }

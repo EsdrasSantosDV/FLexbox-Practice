@@ -18,9 +18,9 @@ section, div { border-radius: 3px; }
     max-width: 800px;
     border: 1px solid #333;
     display: flex;
-    /* flex-wrap: nowrap; */
-    /* flex-wrap: wrap; */
-    /* flex-wrap: wrap-reverse; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
 }
 
 /* Itens filhos */

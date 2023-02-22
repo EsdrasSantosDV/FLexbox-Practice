@@ -29,14 +29,14 @@ section, div { border-radius: 3px; }
     order: -1;
 }
 
-/* .item-2 {
-    order: 2;
+.item-2 {
+    order: 1;
 }
 
 .item-3 {
-    order: 3;
+    order: -2;
 }
 
 .item-4 {
-    order: 4;
-} */
+    order: 1;
+} 

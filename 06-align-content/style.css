@@ -13,12 +13,12 @@ section, div { border-radius: 3px; }
     border: 1px solid #333;
     height: 300px; /* Determinando altura do container*/
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     /* Valor padrão: "stretch" */
     /* align-content: stretch; */
     /* align-content: flex-start; */
     /* align-content: flex-end; */
-    /* align-content: center; */
+    align-content: space-around;
     /* align-content: space-between; */
     /* align-content: space-around; */
 }

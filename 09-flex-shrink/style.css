@@ -12,6 +12,7 @@ section, div { border-radius: 3px; }
     max-width: 1200px;
     border: 1px solid #333;
     display: flex;
+    flex-wrap: wrap;
 }
 
 /* Itens filhos */
@@ -25,5 +26,5 @@ section, div { border-radius: 3px; }
 }
 
 .flex-shrink-2 {
-    flex-shrink: 3;
+    flex-shrink: 0;
 }

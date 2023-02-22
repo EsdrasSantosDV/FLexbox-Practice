@@ -22,16 +22,9 @@ section, div { border-radius: 3px; }
     text-align: center;
     color: #FFF;
     flex-basis: auto;
-    flex-basis: 0;
-    flex-basis: 1;
-    flex-basis: 150px;
     flex-flow: 2;
 }
 
 .flex-grow-1 {
-    /* flex-grow: 1; */
-}
-
-.flex-grow-2 {
-    /* flex-grow: 2; */
+    flex-grow: 1;
 }
